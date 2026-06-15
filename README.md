@@ -7,11 +7,11 @@
 ## 💡 About Me
 
 I’m a Senior Mobile Engineer with 9+ years of experience building production mobile applications across Android, iOS, and Kotlin Multiplatform.
-
+<br>
 I focus on designing mobile systems that scale across teams and products, especially in enterprise environments with real constraints like performance, offline access, and release stability.
-
+<br>
 I’ve led mobile teams of 8 to 12 engineers and delivered apps used across 190+ regions with over 2M+ installs, maintaining crash rates below 0.3%.
-
+<br>
 I care about building mobile architecture that stays stable under real usage, not just demo scenarios.
 
 ---
