@@ -18,11 +18,11 @@ I care about building mobile architecture that stays stable under real usage, no
 
 ## 🧱 Mobile Architecture
 
-Clean Architecture
-MVVM / MVI
-Modular mobile systems
-Offline-first design with sync and conflict handling
-Event-driven UI state management
+Clean Architecture <br>
+MVVM / MVI <br>
+Modular mobile systems <br>
+Offline-first design with sync and conflict handling <br>
+Event-driven UI state management <br>
 Dependency Injection (Hilt, Dagger, Koin)
 
 ---
