@@ -7,11 +7,11 @@
 ## 💡 About Me
 
 I’m a Senior Mobile Engineer with 9+ years of experience building production mobile applications across Android, iOS, and Kotlin Multiplatform.
-<br>
+<br><br>
 I focus on designing mobile systems that scale across teams and products, especially in enterprise environments with real constraints like performance, offline access, and release stability.
-<br>
+<br><br>
 I’ve led mobile teams of 8 to 12 engineers and delivered apps used across 190+ regions with over 2M+ installs, maintaining crash rates below 0.3%.
-<br>
+<br><br>
 I care about building mobile architecture that stays stable under real usage, not just demo scenarios.
 
 ---
@@ -29,30 +29,30 @@ Dependency Injection (Hilt, Dagger, Koin)
 
 ## ⚙️ Engineering Systems
 
-Kotlin Coroutines, Flow
-Swift Concurrency, Combine
-REST APIs, GraphQL, WebSockets
-OAuth2, JWT authentication flows
-Local storage: Room, Core Data, SQLite
+Kotlin Coroutines, Flow <br>
+Swift Concurrency, Combine<br>
+REST APIs, GraphQL, WebSockets<br>
+OAuth2, JWT authentication flows<br>
+Local storage: Room, Core Data, SQLite<br>
 Caching and network optimization strategies
 
 ---
 
 ## 🚀 Platform & Infrastructure
 
-CI/CD pipelines using GitHub Actions, Jenkins, Fastlane
-Docker-based build and deployment workflows
-Azure and AWS for backend integration
-Feature flags and staged rollouts
+CI/CD pipelines using GitHub Actions, Jenkins, Fastlane<br>
+Docker-based build and deployment workflows<br>
+Azure and AWS for backend integration<br>
+Feature flags and staged rollouts<br>
 Crash monitoring with Firebase Crashlytics
 
 ---
 
 ## 📊 Performance & Reliability
 
-Reduced app startup time by up to 40% through lazy initialization and modularization
-Improved API performance by reducing redundant network calls and optimizing caching layers
-Maintained crash-free rate below 0.3% across production apps
+Reduced app startup time by up to 40% through lazy initialization and modularization<br>
+Improved API performance by reducing redundant network calls and optimizing caching layers<br>
+Maintained crash-free rate below 0.3% across production apps<br>
 Improved release cadence by ~20% through CI/CD and modular architecture improvements
 
 ---
@@ -85,21 +85,21 @@ Designed offline-first sync layers for field use cases where connectivity is inc
 
 ## 🎯 Focus Areas
 
-Mobile Engineering
-Android Development (Kotlin, Java, Jetpack Compose)
-iOS Development (Swift, Objective-C, SwiftUI, UIKit)
-Kotlin Multiplatform (KMM)
-Mobile Architecture (Clean Architecture, MVVM, MVI)
-Offline-first mobile systems with sync and caching
-Mobile performance optimization (startup, memory, network)
-API integration (REST, GraphQL, WebSockets)
-CI/CD for mobile apps (GitHub Actions, Jenkins, Fastlane)
+Mobile Engineering<br>
+Android Development (Kotlin, Java, Jetpack Compose)<br>
+iOS Development (Swift, Objective-C, SwiftUI, UIKit)<br>
+Kotlin Multiplatform (KMM)<br>
+Mobile Architecture (Clean Architecture, MVVM, MVI)<br>
+Offline-first mobile systems with sync and caching<br>
+Mobile performance optimization (startup, memory, network)<br>
+API integration (REST, GraphQL, WebSockets)<br>
+CI/CD for mobile apps (GitHub Actions, Jenkins, Fastlane)<br>
 Cloud integration (Azure, AWS)
 
 ---
 
 ## 📫 Contact
 
-📧 **[moimraan034@gmail.com](mailto:moimraan034@gmail.com)**
-**LinkedIn:** *https://www.linkedin.com/in/faisal-imraan/*
-**Portfolio:** *https://portfolio-lead--moimraan034.replit.app*
+📧 **[moimraan034@gmail.com](mailto:moimraan034@gmail.com)**<br>
+**LinkedIn:** *https://www.linkedin.com/in/faisal-imraan/*<br>
+**Portfolio:** *https://portfolio-lead--moimraan034.replit.app*<br>
