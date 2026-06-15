@@ -1,84 +1,75 @@
-# 👨‍💻 Mo Imraan
+# 👨‍💻 Faisal Imraan
 
-🚀 **Senior Machine Learning Engineer | LLM Systems | AI Infrastructure | MLOps**
+🚀 **🚀 Senior Mobile Engineer | Staff Mobile Engineering | Android | iOS | Kotlin Multiplatform (KMM)**
 
 ---
 
 ## 💡 About Me
 
-🔭 Designing and deploying **production scale Machine Learning systems and AI platforms**
+I’m a Senior Mobile Engineer with 9+ years of experience building production mobile applications across Android, iOS, and Kotlin Multiplatform.
 
-🌱 Working on **Large Language Models, Retrieval Augmented Generation, and AI automation systems**
+I focus on designing mobile systems that scale across teams and products, especially in enterprise environments with real constraints like performance, offline access, and release stability.
 
-🤝 Interested in collaborating on **LLM infrastructure, ML platforms, and intelligent AI systems**
+I’ve led mobile teams of 8 to 12 engineers and delivered apps used across 190+ regions with over 2M+ installs, maintaining crash rates below 0.3%.
 
-💬 Ask me about **Machine Learning, Deep Learning, RAG systems, ML pipelines, model deployment**
-
-⚡ Focused on building **scalable AI systems that process large scale structured and unstructured data**
+I care about building mobile architecture that stays stable under real usage, not just demo scenarios.
 
 ---
 
-## 🧠 Machine Learning / AI
+## 🧱 Mobile Architecture
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-%23000000.svg?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-%23000000.svg?style=for-the-badge)
-![LLM Systems](https://img.shields.io/badge/Large_Language_Models-%23000000.svg?style=for-the-badge)
-
----
-
-## ⚙️ Backend & Data Systems
-
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge\&logo=r\&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge\&logo=scala\&logoColor=white)
+Clean Architecture
+MVVM / MVI
+Modular mobile systems
+Offline-first design with sync and conflict handling
+Event-driven UI state management
+Dependency Injection (Hilt, Dagger, Koin)
 
 ---
 
-## 📊 Data Engineering
+## ⚙️ Engineering Systems
 
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-%23000000.svg?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-%23000000.svg?style=for-the-badge)
-![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-%23000000.svg?style=for-the-badge)
-![Large Scale Data Processing](https://img.shields.io/badge/Big_Data-%23000000.svg?style=for-the-badge)
-
----
-
-## 🚀 ML Infrastructure / MLOps
-
-![MLflow](https://img.shields.io/badge/MLflow-%230092CC.svg?style=for-the-badge\&logo=mlflow\&logoColor=white)
-![TorchServe](https://img.shields.io/badge/TorchServe-%23EE4C2C.svg?style=for-the-badge)
-![Triton](https://img.shields.io/badge/Triton_Inference_Server-%23000000.svg?style=for-the-badge)
-![Model Deployment](https://img.shields.io/badge/Model_Deployment-%23000000.svg?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/ML_CI_CD-%23000000.svg?style=for-the-badge)
+Kotlin Coroutines, Flow
+Swift Concurrency, Combine
+REST APIs, GraphQL, WebSockets
+OAuth2, JWT authentication flows
+Local storage: Room, Core Data, SQLite
+Caching and network optimization strategies
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## 🚀 Platform & Infrastructure
 
-![Microsoft Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-%23000000.svg?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-%23000000.svg?style=for-the-badge)
+CI/CD pipelines using GitHub Actions, Jenkins, Fastlane
+Docker-based build and deployment workflows
+Azure and AWS for backend integration
+Feature flags and staged rollouts
+Crash monitoring with Firebase Crashlytics
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Performance & Reliability
 
-### 🔎 Enterprise RAG Knowledge Assistant
+Reduced app startup time by up to 40% through lazy initialization and modularization
+Improved API performance by reducing redundant network calls and optimizing caching layers
+Maintained crash-free rate below 0.3% across production apps
+Improved release cadence by ~20% through CI/CD and modular architecture improvements
 
-Scalable Retrieval Augmented Generation system for enterprise document intelligence using vector embeddings, semantic retrieval, and contextual reasoning.
+---
 
-### 🤖 AI Agent Workflow Platform
+## 🚚 Featured Work
 
-Agent based AI system capable of multi step reasoning, tool calling, and automated workflow orchestration.
+### 🔎 Real-time Logistics Tracking Platform
 
-### ⚙️ MLOps Model Monitoring Platform
+Built mobile tracking workflows with real-time updates and status visibility. Improved delivery accuracy and reduced support tickets tied to missing shipment updates.
 
-Production style ML infrastructure for automated training pipelines, model versioning, experiment tracking, and scalable inference services.
+### 🤖 Enterprise Booking and Event Platform
+
+Delivered booking and registration flows handling 10,000+ monthly users with high traffic stability during peak events.
+
+### ⚙️ Offline-first Enterprise Mobile Systems
+
+Designed offline-first sync layers for field use cases where connectivity is inconsistent, ensuring users can continue work without interruptions.
 
 ---
 
@@ -94,14 +85,21 @@ Production style ML infrastructure for automated training pipelines, model versi
 
 ## 🎯 Focus Areas
 
-🧠 Large Language Models
-🔎 Retrieval Augmented Generation
-⚙️ AI Automation Systems
-🚀 Machine Learning Infrastructure
-📊 Scalable Data Systems
+Mobile Engineering
+Android Development (Kotlin, Java, Jetpack Compose)
+iOS Development (Swift, Objective-C, SwiftUI, UIKit)
+Kotlin Multiplatform (KMM)
+Mobile Architecture (Clean Architecture, MVVM, MVI)
+Offline-first mobile systems with sync and caching
+Mobile performance optimization (startup, memory, network)
+API integration (REST, GraphQL, WebSockets)
+CI/CD for mobile apps (GitHub Actions, Jenkins, Fastlane)
+Cloud integration (Azure, AWS)
 
 ---
 
 ## 📫 Contact
 
 📧 **[moimraan034@gmail.com](mailto:moimraan034@gmail.com)**
+**LinkedIn:** *https://www.linkedin.com/in/faisal-imraan/*
+**Portfolio:** *https://portfolio-lead--moimraan034.replit.app*
